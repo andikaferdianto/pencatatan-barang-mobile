@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1078856513180",
+    "project_id": "maxxmobile-b2221",
+    "storage_bucket": "maxxmobile-b2221.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078856513180:android:223db9c24cb214aa461f59",
+        "android_client_info": {
+          "package_name": "com.example.pencatatan_barang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA9mAdj1f3lkD_vJYWYZjRBSyjjefpk3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078856513180:android:08bb33eb1e22ef94461f59",
+        "android_client_info": {
+          "package_name": "com.example.tugas_layout_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA9mAdj1f3lkD_vJYWYZjRBSyjjefpk3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
